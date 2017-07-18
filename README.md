@@ -1,13 +1,10 @@
-# Landing for Contest #1
+# Стоклновение верстальщиков
 
-It`s a landing page for the contest of the Python programmers. Work is still in progress. Only a static HTML page is available now.
+**сценарий:** Два верстальщика (назовем их Петр и Иван) взялись за верстку нового лэндинга, Петр закоммитил первым, из-за конфликта
+мерджа Иван не может запушить свою работу
 
-# How to launch
+**функционал:** результат мерджа двух веток Петра и Ивана
 
-```bash
-$ python3 -m http.server
-```
+# Цели проекта
 
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Код написан в образовательных целях. Курс веб-разработки – [DEVMAN.org](https://devman.org)
